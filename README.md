@@ -14,7 +14,7 @@ A simple, intuitive note-taking application that allows users to create, edit, d
 
 ## Demo
 
-You can see the application in action with the following demo link: [Demo Link](#)
+You can see the application in action with the following demo link: [Demo Link](https://mkraj-7838.github.io/TaskNote/)
 
 ## Installation
 
@@ -22,7 +22,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repo**
     ```sh
-    git clone https://github.com/your-username/note-taking-app.git
+    git clone https://github.com/your-username/TaskNote.git
     ```
 
 2. **Navigate to the project directory**
